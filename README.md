@@ -1,4 +1,4 @@
 # nano_android
 GNU Nano on Android
 
-follow the [doodooleedoo](wanafoo.com/posts/nano/)
+Details in the doodooleedoo: wanafoo.com/posts/nano/
